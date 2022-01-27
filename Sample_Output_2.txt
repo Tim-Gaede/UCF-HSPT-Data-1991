@@ -1,0 +1,32 @@
+reverse
+decouple at K
+forward
+switch
+reverse
+decouple at M
+forward
+switch
+reverse
+couple
+forward
+switch
+reverse
+couple
+forward
+switch
+reverse
+decouple at L
+forward
+switch
+reverse
+decouple at M
+forward
+switch
+reverse
+couple
+forward
+switch
+reverse
+couple
+forward
+The train is ready to go!
